@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @LekanAdanijo
+- I started programming about 4 decades ago
+- Been a Solution's Architect for 2 decades
 - 👀 I’m interested in current technology stacks
 - 🌱 I’m currently learning non microsoft stack
 
